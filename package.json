@@ -1,6 +1,6 @@
 {
   "name": "@tiddo/insert-css",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Small module for inserting CSS rules from Javascript",
   "main": "index.js",
   "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
